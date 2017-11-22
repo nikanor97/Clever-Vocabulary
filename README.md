@@ -1,3 +1,3 @@
 # Clever-Vocabulary
-New project devoted to creating of implementation of Clever-Vocabulary.
+New project of implementation of Clever-Vocabulary.
 It can easily help people learning new languages. The main point is that Clever-Vocabulary has the whole vocabulary of the person in it's memory. I'm going to use it in order to find new unfamiliar words easily from the scope of them. It is useful when you are learning new language, whatching films. The methodics is that firstly you learn new words and only after that you watch the film, trying to recognize these new words (it's not my invention, i'm just trying to make it easier). The main problem (i faced it myself) is in the selecting of the words, because in the transcript of the film may be several thousand of them, including words like "a", "why", "who" and others, that tale a lot of time to be read and scrolled. So, I'm creating Clever-Vocabulary with handy GUI (not implemented at all yet) and good structure.
